@@ -3,6 +3,13 @@
   "version": 1,
   "users": [
     {
+      "uuid": "6ee25701-e99f-3e4c-9d78-289499f4ab5a",
+      "badge": "moder",
+      "cosmetics": [
+      ]
+    }
+    
+    {
       "uuid": "e2092680-c47f-37e7-8cc4-7755a3bf0796",
       "badge": "owner",
       "cosmetics": [
